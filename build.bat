@@ -1,0 +1,1 @@
+g++ serial.cpp display.cpp graphics.cpp getTime.cpp clock.cpp main.cpp -o main.exe && main.exe
